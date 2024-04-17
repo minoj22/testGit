@@ -1,0 +1,9 @@
+diff a/bin/src/main/webapp/WEB-INF/views/index.jsp b/bin/src/main/webapp/WEB-INF/views/index.jsp	(rejected hunks)
+@@ -0,5 +0,6 @@
+ <title>Insert title here</title>
+ </head>
+ <body>
++	${msg} <!-- model 에서 보내온 msg 값 -->
+ </body>
+ </html>
+\ No newline at end of file
