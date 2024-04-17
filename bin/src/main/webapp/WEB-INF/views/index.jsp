@@ -7,6 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	${msg} <!-- model 에서 보내온 msg 값 -->
 </body>
 </html>
